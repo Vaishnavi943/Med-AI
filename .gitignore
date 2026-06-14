@@ -4,6 +4,10 @@ __pycache__/
 venv/
 .env
 
-
+.venv
 # OS
 .DS_Store
+
+# Logs
+BACKEND/logs/
+*.log
